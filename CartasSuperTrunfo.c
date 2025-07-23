@@ -75,6 +75,6 @@ int main(){
     printf("N. de pontos turísticos: %d\n", pontosturísticos2);
     printf("\n");
 
-    return 0;
+    return 0;;
 
 }
